@@ -6,8 +6,8 @@
 }
 
 .central-panel {
-    height: 100vh;
-    width: 100vw;
+    height: 100%;
+    width: 100%;
 }
 
 .header {
@@ -17,9 +17,9 @@
 
 .game-window {
     background: black;
-    height: 70vh;
-    padding-left: 10vw;
-    width: 80vw;
+    height: 70%;
+    margin: 0 auto;
+    width: 55%;
     color: white;
 }
 
