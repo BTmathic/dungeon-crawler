@@ -1,0 +1,44 @@
+.button {
+    background: black;
+    border: 1px solid white;
+    color: white;
+    font-size: 90%;
+}
+
+.central-panel {
+    height: 100%;
+    width: 100%;
+}
+
+.header {
+    color: white;
+    text-align: center;
+}
+
+.game-window {
+    background: black;
+    height: 70%;
+    margin: 0 auto;
+    width: 55%;
+    color: white;
+}
+
+.game-data {
+    display: flex;
+    justify-content: space-between;
+}
+
+.user-data {
+    display: flex;
+    justify-content: flex-start;
+}
+
+.user-datum, .dungeon-floor {
+    padding: 0.2rem 1.2rem;
+}
+
+.map-window {
+    height: 76%;
+    margin: 2% 5% 5% 5%;
+    width: 90%;
+}
