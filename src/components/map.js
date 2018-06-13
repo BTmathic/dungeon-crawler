@@ -1,7 +1,5 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-//import Enemy from './enemy';
-//import User from './user';
 
 export default class Map extends React.Component {
     state = {
